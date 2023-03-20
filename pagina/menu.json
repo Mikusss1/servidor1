@@ -1,0 +1,133 @@
+{"menu": [
+		{
+			"nombre":"Hamburguesa", 
+			"descripcion":"Es una Hamburguesa simple con carne, queso, lechuga",
+			 "precio":100,
+			 "imagen":"img/ha"
+
+			
+		},
+		{
+			"nombre":"Sincronizada", 
+			"descripcion":"Es una taco de harina grande con carne, queso, aguacate",
+			 "precio":80,
+			 "imagen":"img/sin"
+			
+		},
+		{
+			"nombre":"Pizza", 
+			"descripcion":"Es una pizza clasica con peperoni",
+			 "precio":90,
+			 "imagen":"img/pi"
+			
+		},
+		{
+			"nombre":"Tacos", 
+			"descripcion":"Cantidad de orden de 5 tacos con carne, cilantro",
+			 "precio":40,
+			 "imagen":"img/tacos"
+
+			
+		},
+		{
+			"nombre":"Nuggets", 
+			"descripcion":"Nuggets hecho de pollo con 15",
+			 "precio":75,
+			 "imagen":"img/nug"
+			
+		},
+		{
+			"nombre":"Hot Dog", 
+			"descripcion":"Es un hot dog simple con salchica, mayoneza y aderezos",
+			 "precio":30,
+			 "imagen":"img/ho"
+			
+		},
+		{
+			"nombre":"Torta", 
+			"descripcion":"Torta con jamon,carne,aguacate,lechuga",
+			 "precio":50,
+			 "imagen":"img/torta"
+			
+		},
+		{
+			"nombre":"Sopes", 
+			"descripcion":"tortilla gruesa de maíz sus ingredientespueden ser frijol,queso,carne,salsa,lechuga",
+			 "precio":150,
+			 "imagen":"img/sopes"
+			
+		},
+		{
+			"nombre":"Spaguetti", 
+			"descripcion":"Es una Hamburguesa con carne, queso, lechuga",
+			 "precio":100,
+			 "imagen":"img/espa"
+			
+		},
+		{
+			"nombre":"Dumplings", 
+			"descripcion":"Es una Hamburguesa con carne, queso, lechuga",
+			 "precio":105,
+			 "imagen":"img/ha"
+			
+		},
+		{
+			"nombre":"Takoyaki", 
+			"descripcion":"Bolitas hechas de masa con pulpo",
+			 "precio":110,
+			 "imagen":"img/Takoyaki"
+			
+		},
+		{
+			"nombre":"Onigiri", 
+			"descripcion":"Bola de arroz rellena que puede ser atun, carne, verdura,salmon",
+			 "precio":60,
+			 "imagen":"img/oni"
+		},
+		{
+			"nombre":"Sushi", 
+			"descripcion":"Base de arroz con pepimo, salmon,aguacate",
+			 "precio":135,
+			 "imagen":"img/su"
+			
+		},
+		{
+			"nombre":"Poke", 
+			"descripcion":"Bowl de poke contiendo salmon, aguacate, arroz",
+			 "precio":120,
+			 "imagen":"img/poke"
+			
+		},
+		{
+			"nombre":"Noddles", 
+			"descripcion":"fideos (finos y alargados)",
+			 "precio":80,
+			 "imagen":"img/no"
+			
+		},
+		{
+			"nombre":"Gyoza", 
+			"descripcion":"Empanadillas rellena de verduras, cerdo, pollo o gambas",
+			 "precio":95,
+			 "imagen":"img/gyoza"
+			},
+
+		{
+			"nombre":"Lasagna", 
+			"descripcion":"pasta en láminas con distintos ingredientes (carnes, verduras, pescados)",
+			 "precio":98,
+			 "imagen":"img/la"
+			
+		},
+		{
+			"nombre":"Bolognese", 
+			"descripcion":"Spaguetti tipo bolognese con aderezos y carne",
+			 "precio":75,
+			 "imagen":"img/bol"
+			
+		}
+		
+	]}
+		
+			
+		
